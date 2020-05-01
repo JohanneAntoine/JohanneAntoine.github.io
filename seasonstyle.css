@@ -1,0 +1,70 @@
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+	font-size: 2em;
+}
+
+
+
+header { 
+	background-color: beige;
+	position: fixed;
+	width: 100%;
+}
+
+ul {
+	margin: 30px auto;
+	padding: 0 20px;
+	text-align: center;
+}
+
+li {
+	display: inline-block;
+	font-size: 16px;
+	font-weight: 300;
+	width: 80px;
+}
+
+main {
+	padding-left: 30px;
+  	min-width: 75%;
+}
+img {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+	width: 25%;
+	height: auto;
+
+}
+.summer {
+	color: rgb(250, 209, 5);
+}
+
+.fall {
+	color: rgb(146, 19, 19);
+}
+
+.winter {
+	color: rgb(166, 195, 230);
+}
+
+.spring {
+	color: rgb(77, 201, 77);
+}
+
+figcaption {
+	font-style: italic;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+footer p {
+	text-align: left;
+}
